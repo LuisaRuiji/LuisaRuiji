@@ -1,0 +1,1 @@
+INSERT INTO users (name, email, password, gender) VALUES ('John Doe', 'john.doe@example.com', 'hashed_password_here', 'Male');
